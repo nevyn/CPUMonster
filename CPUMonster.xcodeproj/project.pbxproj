@@ -20,11 +20,11 @@
 		05E678F314604760006E0499 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		05E678F514604760006E0499 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		05E678F714604760006E0499 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		05E678FB14604760006E0499 /* CPUMonster-Info.plist */ = {isa = PBXFileReference; path = "CPUMonster-Info.plist"; sourceTree = "<group>"; };
+		05E678FB14604760006E0499 /* CPUMonster-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CPUMonster-Info.plist"; sourceTree = "<group>"; };
 		05E678FD14604760006E0499 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		05E678FF14604760006E0499 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		05E6790114604760006E0499 /* CPUMonster-Prefix.pch */ = {isa = PBXFileReference; path = "CPUMonster-Prefix.pch"; sourceTree = "<group>"; };
-		05E6790214604760006E0499 /* OMGAppDelegate.h */ = {isa = PBXFileReference; path = OMGAppDelegate.h; sourceTree = "<group>"; };
+		05E6790114604760006E0499 /* CPUMonster-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CPUMonster-Prefix.pch"; sourceTree = "<group>"; };
+		05E6790214604760006E0499 /* OMGAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OMGAppDelegate.h; sourceTree = "<group>"; };
 		05E6790314604760006E0499 /* OMGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OMGAppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
